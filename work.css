@@ -1,0 +1,38 @@
+.projekt-text {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Project-section {
+  margin-bottom: 40px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.Project-section img {
+  width: 60%;
+  object-fit: cover;
+}
+
+.Project-section2 {
+  margin-bottom: 40px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.Project-section2 img {
+  width: 60%;
+  object-fit: cover;
+}
